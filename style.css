@@ -1,0 +1,106 @@
+.header{
+    background-color: #1f2937;
+    color: white;
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 25px;
+}
+
+
+.b1{
+    background-color: blue;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 13px;
+    margin-top: 14px;
+    border-color: #e5e7eb;
+    border: 13px 13px 13px 13px;
+}
+.Main{
+    
+    font-weight: bolder;
+    font-size: 48px;
+}
+sub{
+        font-size: 18px;
+        
+}
+.ContainerOne{
+    display: flex;
+    justify-content: space-around;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+}
+.header1{
+    display: flex;
+    justify-content: center;
+    padding: 22px;
+    font-size: 36px;
+    font-weight: 600;
+}.header2{
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+    gap: 36px;
+}
+.quote{
+    background-color: #e5e7eb;
+    
+}
+.qtext{
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 44px;
+    display: flex;
+    justify-content: center;
+}.author{
+    display: flex;
+    justify-content: flex-end;
+    padding: 24px;
+
+}
+.login{
+ background-color: white;
+ margin: 60px 34px 60px 34px;
+}
+.bluebox{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 34px;
+    
+}.b2{
+    background-color: blue;
+    color: aliceblue;
+    border-color: #e5e7eb;
+    border-radius: 13px;
+    padding: 10px 15px 10px 15px;
+    border: 15px 15px 15px 15px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 34px;
+}body{
+    margin: 0;
+}
+.action1{
+    font-weight: 800;
+}
+.action2{
+    font-size: 16px;
+}
