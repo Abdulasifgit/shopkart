@@ -78,6 +78,8 @@ sub{
     justify-content: space-around;
     color: white;
     padding: 34px;
+    margin-left:220px;
+    margin-right: 220px;
     
 }.b2{
     background-color: blue;
